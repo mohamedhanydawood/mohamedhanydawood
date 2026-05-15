@@ -24,13 +24,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/hany68790" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.leetcode.com/mohamedhany511" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
-  </a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
