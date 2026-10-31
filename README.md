@@ -5,26 +5,27 @@
   <img src="https://komarev.com/ghpvc/?username=m0hamedhany&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedhany" />
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/mohamedhany___" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+  <a href="https://x.com/mohamedhany___" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
+      <img src="https://cdn.simpleicons.org/x/000000" height="30" alt="X"/>
+    </picture>
   </a>&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/mohamedhanydawood/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>&nbsp;&nbsp;
-
   <a href="https://www.facebook.com/profile.php?id=100008187156067" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
   </a>&nbsp;&nbsp;
-
   <a href="https://instagram.com/mohamedhany_._" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
+  </a>
 </p>
+
 
 <h3 align="left">Tech Stack:</h3>
 
